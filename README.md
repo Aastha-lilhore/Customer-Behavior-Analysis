@@ -27,7 +27,7 @@ Analyze customer transactions to identify customer segments, purchasing behavior
 - Visualized purchasing patterns and churn.
 - Provided five actionable recommendations to improve customer engagement.
 
-## Files
+## Files ---
 - `Customer_Behavior_Analysis.ipynb`
 - `Report.pdf`
 - `Customer_Segments.csv`
